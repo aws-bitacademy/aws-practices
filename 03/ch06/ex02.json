@@ -1,6 +1,7 @@
 {
 	"AWSTemplateFormatVersion": "2010-09-09",
 	"Description": "Deploy Node Application(myapp) on EC2 & RDS",
+	
 	"Parameters": {
 		"KeyName": {
 			"Description": "the Key Pair for Accessing to EC2 Instance",
